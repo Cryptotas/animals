@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your animal knowledge with this quiz.",
+  "questions": [
+    {
+      "question": "Largest land animal?",
+      "answers": ["Elephant", "Giraffe", "Hippo"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Fastest land animal?",
+      "answers": ["Cheetah", "Leopard", "Tiger"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Tallest animal?",
+      "answers": ["Giraffe", "Elephant", "Camel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "King of the jungle?",
+      "answers": ["Lion", "Tiger", "Panther"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Biggest ocean animal?",
+      "answers": ["Whale", "Shark", "Dolphin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Smallest bird?",
+      "answers": ["Humming", "Sparrow", "Finch"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Fastest bird?",
+      "answers": ["Falcon", "Eagle", "Hawk"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Striped animal?",
+      "answers": ["Zebra", "Tiger", "Okapi"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Largest reptile?",
+      "answers": ["Croc", "Lizard", "Snake"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Mammal that flies?",
+      "answers": ["Bat", "Bird", "Bee"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Panda's main food?",
+      "answers": ["Bamboo", "Eucalyptus", "Grass"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Lives in Australia?",
+      "answers": ["Koala", "Panda", "Tiger"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Largest primate?",
+      "answers": ["Gorilla", "Chimp", "Orang"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Spots on its coat?",
+      "answers": ["Cheetah", "Tiger", "Lion"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Desert animal?",
+      "answers": ["Camel", "Panda", "Elephant"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Animal with trunk?",
+      "answers": ["Elephant", "Giraffe", "Zebra"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Ocean predator?",
+      "answers": ["Shark", "Whale", "Seal"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Flightless bird?",
+      "answers": ["Ostrich", "Eagle", "Parrot"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Largest rodent?",
+      "answers": ["Capybara", "Beaver", "Rat"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Lives in trees?",
+      "answers": ["Monkey", "Lion", "Wolf"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
